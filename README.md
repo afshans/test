@@ -12,7 +12,7 @@ This API will accept the username of the git. and repository name
 The request parameters are 'username' and 'repository'
 
 The URL of the API will be:
-SAMPLE URL  : Your hosting path + /webservice.php?username=intizarahmad&repository=AssignmentTest
+SAMPLE URL  : Your hosting path + /webservice.php?username=afshans&repository=test
  
 
 1) Dependency 
